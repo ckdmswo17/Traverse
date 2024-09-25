@@ -10,9 +10,9 @@
 퀘스트 스토어에 추후 등록 예정
 
 <h2>📄 Document</h2>
-현재 프로보노 ICT 멘토링 참여중<br>
-공모전 SW개발설계서 파일 : (https://github.com/user-attachments/files/16827800/SW._HW._.x._Traverse.pptx)
+프로보노 ICT 멘토링 참여<br>
 
+공모전 SW개발설계서 파일 : [SW개발_HW제작설계서_일반_Traverse.pptx](https://github.com/user-attachments/files/17128597/SW._HW._.x._Traverse.pptx)
 
 <h2>⚡️ Technology Stack We Used</h2>
 
