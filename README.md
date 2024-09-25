@@ -22,18 +22,18 @@
 
 <h2>Tutorial Image</h2>
 
-![1 (1)](https://github.com/user-attachments/assets/7a961daa-5832-4a8a-a7f6-174c4d8fc9f2)
-![2](https://github.com/user-attachments/assets/aee17c2d-1af7-4e54-9603-ebcf9b652715)
-![3](https://github.com/user-attachments/assets/835454cd-7d27-4c5c-b925-981ee8a13d3b)
-![4](https://github.com/user-attachments/assets/ce7ce84e-e3fb-47c1-a26b-20b9eeac0dcf)
-![5](https://github.com/user-attachments/assets/5fe9a095-b8b2-413a-a816-511dce8fe80c)
+![1](https://github.com/user-attachments/assets/357616d6-c97e-4c58-8e0e-8145c4501472)
+![2](https://github.com/user-attachments/assets/12f56e96-b5cd-47c8-98a8-a8588d0ca7e5)
+![3](https://github.com/user-attachments/assets/cbd198cc-4114-495b-8933-5ff71e0446e6)
+![4](https://github.com/user-attachments/assets/836e00fb-cf9b-4e3c-999c-1981f741ea17)
+![5](https://github.com/user-attachments/assets/53dbe6a9-cf35-414a-b6f4-26274e00af19)
 
 <h2>Gameplay Image</h2>
 
-![실제 투호 UI](https://github.com/user-attachments/assets/bb555a05-b349-41d5-aadf-dd070453fd30)
-![실제 자치기 UI](https://github.com/user-attachments/assets/99c538e9-79e4-44dc-8a7a-e0fd003b7f50)
-![실제 메인 UI](https://github.com/user-attachments/assets/bc97aeca-43e7-4cac-a817-ecd48ba8bade)
-![실제 상점 UI](https://github.com/user-attachments/assets/b350babf-ca74-418d-bad5-f8f77e977bf6)
+![실제 투호 UI](https://github.com/user-attachments/assets/f9cab19e-9d4e-4ea6-8172-d8e44fe6213d)
+![실제 자치기 UI](https://github.com/user-attachments/assets/25413121-f287-4347-a7c6-24ca372b0c80)
+![실제 메인 UI](https://github.com/user-attachments/assets/9d12133a-31a0-442f-a1ae-3f0a73afeb05)
+![실제 상점 UI](https://github.com/user-attachments/assets/c7f2edf9-b11c-47fa-9193-6d4bd544a1cf)
 
 
 <h2>🎥 Gameplay Video</h2>
@@ -46,6 +46,7 @@
 </div>
 <br>
 
-![2024 프로보노 팀사진](https://github.com/user-attachments/assets/ae713946-7602-4b2b-8806-d5449ab52f5d)
+![2024 프로보노 팀사진](https://github.com/user-attachments/assets/68ef72e2-568b-4cc5-87a1-db005d926f66)
+
 
 
