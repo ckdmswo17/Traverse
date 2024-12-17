@@ -7,7 +7,6 @@
   기기 : Meta Quest 3, PICO 2
   <h2>🕹️ How To Play</h2>
 ./APK 폴더의 apk 파일을 다운받고 Meta Quest Developer Hub를 통해 Quest 기기에 해당 파일을 빌드해서 실행 <br>
-퀘스트 스토어에 추후 등록 예정
 
 <h2>📄 Document</h2>
 프로보노 ICT 멘토링 참여<br>
